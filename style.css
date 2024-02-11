@@ -1,0 +1,7 @@
+body{
+   background-color: white;
+}
+.aboutbackgroundimage{
+   background-image: url('Assets/Images/Student Success Convent.jpg');
+    height: 100vh;
+}
